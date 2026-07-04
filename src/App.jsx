@@ -7,7 +7,7 @@ const getColor = (status) => {
   if (status === "green") return "#2ecc71";
   if (status === "orange") return "#f39c12";
   if (status === "red") return "#e74c3c";
-  if (status === "gray") return "#7f8c8d"; // 🩶 закрыто
+  if (status === "gray") return "#7f8c8d";
   return "#e74c3c";
 };
 
@@ -62,12 +62,10 @@ export default function App() {
 
         {/* ЛЕГЕНДА */}
         <div className="card">
-
           <div className="row"><span className="dot green"></span> топливо есть</div>
           <div className="row"><span className="dot orange"></span> мало топлива</div>
           <div className="row"><span className="dot red"></span> нет топлива</div>
           <div className="row"><span className="dot gray"></span> закрыто</div>
-
         </div>
 
         <div className="card">
@@ -125,6 +123,10 @@ export default function App() {
                 <div>100: {azs.fuel?.ai100 ?? "—"} ₽</div>
                 <div>Дизель: {azs.fuel?.diesel ?? "—"} ₽</div>
                 <div>Газ: {azs.fuel?.gas ?? "—"} ₽</div>
+
+                <hr />
+
+                <div>🚗 Очередь: {azs.queue ?? "—"}</div>
 
                 <hr />
 
