@@ -237,7 +237,7 @@ const azsData = [
     type: "fuel",
     address: "Кирова 175/2",
     position: [44.983985, 41.117023],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
+    fuel: { ai92: 67, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
   },
