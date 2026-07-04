@@ -32,7 +32,7 @@ const azsData = [
     position: [44.923311, 41.133131],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "white",
-    updatedAt: null,
+    updatedAt: "20:32",
     queue: "нет данных"
   },
   {
@@ -55,8 +55,8 @@ const azsData = [
     address: "ФАД Кавказ 164 км",
     position: [44.950072, 41.08727],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "20:32",
     queue: "нет данных"
   },
   {
@@ -79,8 +79,8 @@ const azsData = [
     address: "ФАД Кавказ 160 км",
     position: [44.972424, 41.053576],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "White",
+    updatedAt: "20:33",
     queue: "нет данных"
   },
   {
@@ -91,8 +91,8 @@ const azsData = [
     address: "ФАД Кавказ 160 км",
     position: [44.972879, 41.051176],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "20:34",
     queue: "нет данных"
   },
   {
@@ -103,8 +103,8 @@ const azsData = [
     address: "ул. Лазурная, 1/1",
     position: [44.946503, 41.129485],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "20:35",
     queue: "нет данных"
   },
   {
@@ -115,8 +115,8 @@ const azsData = [
     address: "ул. Загорская, 2а",
     position: [44.9479, 41.130585],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "20:35",
     queue: "нет данных"
   },
   {
@@ -127,8 +127,8 @@ const azsData = [
     address: "ул. Лазурная, 95",
     position: [44.949734, 41.128214],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "20:36",
     queue: "нет данных"
   },
   {
@@ -151,8 +151,8 @@ const azsData = [
     address: "ул. Мира, 90",
     position: [44.973374, 41.169306],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "White",
+    updatedAt: "20:37",
     queue: "нет данных"
   },
   {
@@ -163,8 +163,8 @@ const azsData = [
     address: "ул. Мира, 74В",
     position: [44.97761, 41.161984],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "20:37",
     queue: "нет данных"
   },
   {
@@ -174,9 +174,9 @@ const azsData = [
     type: "fuel",
     address: "ул. Тургенева, 306А",
     position: [44.974087, 41.153688],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    fuel: { ai92: 101.0, ai95: 104.0, ai100: 0, diesel: 106.0, gas: null },
+    status: "orange",
+    updatedAt: "20:39",
     queue: "нет данных"
   },
   {
@@ -187,8 +187,8 @@ const azsData = [
     address: "ул. Тургенева, 302/2",
     position: [44.975455, 41.151855],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "20:40",
     queue: "нет данных"
   },
   {
@@ -199,8 +199,8 @@ const azsData = [
     address: "ул. Советской Армии, 282/1",
     position: [44.972939, 41.128828],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "20:41",
     queue: "нет данных"
   },
   {
@@ -212,7 +212,7 @@ const azsData = [
     position: [44.988457, 41.141163],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "orange",
-    updatedAt: null,
+    updatedAt: "20:41",
     queue: "Около 30 машин"
   },
   {
@@ -223,8 +223,8 @@ const azsData = [
     address: "ул. Ленина, 176/4",
     position: [44.99078, 41.144408],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "20:46",
     queue: "нет данных"
   },
   {
@@ -235,8 +235,8 @@ const azsData = [
     address: "ул. Урицкого, 148/1",
     position: [44.978717, 41.124738],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "20:47",
     queue: "нет данных"
   },
     {
@@ -247,8 +247,8 @@ const azsData = [
     address: "Розы Люксембург 168/1",
     position: [44.999017, 41.12768],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "20:47",
       queue: "нет данных"
   },
   {
@@ -258,10 +258,10 @@ const azsData = [
     type: "fuel",
     address: "Кирова 175/2",
     position: [44.983985, 41.117023],
-    fuel: { ai92: 67, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
-    queue: "нет данных"
+    fuel: { ai92: 125.0, ai95: 135.0, ai100: 140.0, diesel: 115.0, gas: null },
+    status: "orange",
+    updatedAt: "20:48",
+    queue: "Очередь примерно на час"
   },
   {
     id: 23,
@@ -272,7 +272,7 @@ const azsData = [
     position: [44.982101, 41.111335],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
-    updatedAt: null,
+    updatedAt: "20:50",
     queue: "нет данных"
   },
   {
@@ -282,10 +282,10 @@ const azsData = [
     type: "fuel",
     address: "Кирова 66А",
     position: [44.993787, 41.125942],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
-    queue: "нет данных"
+    fuel: { ai92: 65.55, ai95: 71.60, ai100: null, diesel: 76.55, gas: null },
+    status: "orange",
+    updatedAt: "20:50",
+    queue: "Очередь на час"
   },
 {
   id: 25,
@@ -299,11 +299,11 @@ const azsData = [
     ai95: null,
     ai100: null,
     diesel: null,
-    gas: null
+    gas: 32.0
   },
-  status: "red",
-  updatedAt: null,
-  queue: "нет данных"
+  status: "green",
+  updatedAt: "20:52",
+  queue: "Нет"
 },
 
 {
@@ -314,15 +314,15 @@ const azsData = [
   address: "Ефремова 280",
   position: [44.979334, 41.074479],
   fuel: {
-    ai92: null,
-    ai95: null,
-    ai100: null,
-    diesel: null,
-    gas: null
+    ai92: 67.07,
+    ai95: 73.89,
+    ai100: 99.40,
+    diesel: 77.32,
+    gas: 29.01
   },
-  status: "gray",
-  updatedAt: "2026-07-04",
-  queue: "нет данных",
+  status: "orange",
+  updatedAt: "20:54",
+  queue: "На пол часа",
 },
 
 {
@@ -339,8 +339,8 @@ const azsData = [
     diesel: null,
     gas: null
   },
-  status: "red",
-  updatedAt: null,
+  status: "white",
+  updatedAt: "20:56",
   queue: "нет данных",
 },
   {
@@ -352,7 +352,7 @@ const azsData = [
     position: [44.983325, 41.087215],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
-    updatedAt: null,
+    updatedAt: "20:57",
       queue: "нет данных"
   },
   {
@@ -375,8 +375,8 @@ const azsData = [
     address: "Ефремова 143А",
     position: [44.985391, 41.094404],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "20:57",
       queue: "нет данных"
   },
   {
@@ -387,8 +387,8 @@ const azsData = [
     address: "Ефремова 59/1",
     position: [44.998292, 41.11364],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "20:57",
       queue: "нет данных"
   },
   {
@@ -399,8 +399,8 @@ const azsData = [
     address: "Розы Люксембург 91/1",
     position: [45.005685, 41.121929],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "20:59",
       queue: "нет данных"
   },
   {
@@ -412,7 +412,7 @@ const azsData = [
     position: [44.989188, 41.05652],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
-    updatedAt: null,
+    updatedAt: "20:59",
       queue: "нет данных"
   },
   {
@@ -423,8 +423,8 @@ const azsData = [
     address: "Новороссийская 163/1",
     position: [44.988676, 41.066649],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "21:00",
       queue: "нет данных"
   },
   {
@@ -435,8 +435,8 @@ const azsData = [
     address: "Новороссийская 147/4",
     position: [44.991867, 41.075851],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "21:01",
       queue: "нет данных"
   },
   {
@@ -447,8 +447,8 @@ const azsData = [
     address: "Володарского 5А",
     position: [45.003477, 41.10157],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "21:02",
       queue: "нет данных"
   },
   {
@@ -459,8 +459,8 @@ const azsData = [
     address: "Володарского 5/1",
     position: [45.003996, 41.101153],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "21:02",
       queue: "нет данных"
   },
   {
@@ -471,8 +471,8 @@ const azsData = [
     address: "Проходная 6",
     position: [44.99743, 41.053714],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "21:03",
       queue: "нет данных"
   },
   {
@@ -483,8 +483,8 @@ const azsData = [
     address: "Нефтекачка 1/3",
     position: [44.998897, 41.050123],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "21:04",
       queue: "нет данных"
   },
   {
@@ -495,8 +495,8 @@ const azsData = [
     address: "Промзона 16/1",
     position: [45.010013, 41.09799],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "21:05",
       queue: "нет данных"
   },
   {
@@ -507,8 +507,8 @@ const azsData = [
     address: "Тоннельная 22",
     position: [45.012218, 41.09045],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "21:06",
       queue: "нет данных"
   },
   {
@@ -519,8 +519,8 @@ const azsData = [
     address: "Тоннельная 23/1",
     position: [45.013323, 41.090063],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "21:06",
       queue: "нет данных"
   },
   {
@@ -531,8 +531,8 @@ const azsData = [
     address: "Тоннельная 60",
     position: [45.015458, 41.083522],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "21:07",
       queue: "нет данных"
   },
   {
@@ -543,8 +543,8 @@ const azsData = [
     address: "Промзона 16",
     position: [45.019261, 41.082238],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "21:07",
       queue: "нет данных"
   },
   {
@@ -554,9 +554,9 @@ const azsData = [
     type: "fuel",
     address: "Лаврова 44",
     position: [45.01384, 41.158876],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    fuel: { ai92: 100.0, ai95: 105.0, ai100: null, diesel: 95.0, gas: 32.0 },
+    status: "orange",
+    updatedAt: "21:08",
       queue: "нет данных"
   },
   {
@@ -567,8 +567,8 @@ const azsData = [
     address: "Песчаная 40/3",
     position: [45.01178, 41.126711],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "21:09",
       queue: "нет данных"
   },
   {
@@ -579,8 +579,8 @@ const azsData = [
     address: "8-й микрорайон",
     position: [45.018611, 41.122985],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "21:10",
       queue: "нет данных"
   },
   {
@@ -590,9 +590,9 @@ const azsData = [
     type: "fuel",
     address: "Северный жилой район",
     position: [45.027226, 41.114834],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    fuel: { ai92: 66.71, ai95: 73.56, ai100: 99.40, diesel: null, gas: null },
+    status: "orange",
+    updatedAt: "21:11",
       queue: "нет данных"
   },
   {
@@ -603,24 +603,12 @@ const azsData = [
     address: "Армавирская 163",
     position: [45.035567, 41.111286],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "21:13",
       queue: "нет данных"
   },
   {
     id: 50,
-    name: "Фактор Армавирская 157/2",
-    brand: "Other",
-    type: "fuel",
-    address: "Армавирская 157/2",
-    position: [45.042098, 41.107925],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
-      queue: "нет данных"
-  },
-  {
-    id: 51,
     name: "Rusoil Армавирская 155",
     brand: "Rusoil",
     type: "fuel",
@@ -631,102 +619,7 @@ const azsData = [
     updatedAt: null,
       queue: "нет данных"
   },
-  {
-    id: 52,
-    name: "Лукойл Первомайская 329",
-    brand: "Lukoil",
-    type: "fuel",
-    address: "Первомайская 329",
-    position: [45.069558, 41.082398],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
-      queue: "нет данных"
-  },
-  {
-    id: 53,
-    name: "Крокус Волгоградская 40",
-    brand: "Krokus",
-    type: "fuel",
-    address: "Волгоградская 40",
-    position: [45.079985, 41.071283],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
-      queue: "нет данных"
-  },
-  {
-    id: 54,
-    name: "Flash 8 Марта 2",
-    brand: "Flash",
-    type: "fuel",
-    address: "8 Марта 2",
-    position: [45.098901, 41.032324],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
-      queue: "нет данных"
-  },
-  {
-    id: 55,
-    name: "ЮНК Первомайская 71/1",
-    brand: "UNK",
-    type: "fuel",
-    address: "Первомайская 71/1",
-    position: [45.116371, 41.033322],
-    fuel: { ai92: null, ai95: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
-      queue: "нет данных"
-  },
-  {
-    id: 56,
-    name: "Крокус Первомайская 71",
-    brand: "Krokus",
-    type: "fuel",
-    address: "Первомайская 71",
-    position: [45.116558, 41.032506],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
-      queue: "нет данных"
-  },
-  {
-    id: 57,
-    name: "Газпром Кавказ 4 км",
-    brand: "Gazprom",
-    type: "fuel",
-    address: "Кавказ 4 км",
-    position: [45.108468, 41.007025],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
-      queue: "нет данных"
-  },
-  {
-    id: 58,
-    name: "Лукойл ФАД Кавказ 143 км",
-    brand: "Lukoil",
-    type: "fuel",
-    address: "ФАД Кавказ 143 км",
-    position: [45.101419, 40.946798],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
-      queue: "нет данных"
-  },
-  {
-    id: 59,
-    name: "Лукойл Дорожная 1/2",
-    brand: "Lukoil",
-    type: "fuel",
-    address: "Дорожная 1/2",
-    position: [45.123639, 40.925066],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
-      queue: "нет данных"
-  }
+  
 ];
   
 
