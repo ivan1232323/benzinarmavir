@@ -6,10 +6,10 @@ const azsData = [
     type: "fuel",
     address: "ФАД Кавказ 171 км",
     position: [44.908876, 41.168928],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
-    queue: "нет данных"
+    fuel: { ai92: 65.55, ai95: 71.60, ai100: null, diesel: 76.55, gas: 30.15 },
+    status: "orange",
+    updatedAt: 19:17,
+    queue: "небольшая очередь"
   },
   {
     id: 2,
