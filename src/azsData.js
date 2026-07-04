@@ -275,16 +275,24 @@ const azsData = [
     updatedAt: null,
   },
   {
-    id: 26,
-    name: "Лукойл Ефремова 280",
-    brand: "Lukoil",
-    type: "fuel",
-    address: "Ефремова 280",
-    position: [44.979334, 41.074479],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "gray",
-    updatedAt: 04.07.2026,
+   {
+  id: 26,
+  name: "Лукойл Ефремова 280",
+  brand: "Lukoil",
+  type: "fuel",
+  address: "Ефремова 280",
+  position: [44.979334, 41.074479],
+  fuel: {
+    ai92: null,
+    ai95: null,
+    ai100: null,
+    diesel: null,
+    gas: null
   },
+  status: "gray",
+  updatedAt: "2026-07-04"
+  }
+
   {
     id: 27,
     name: "АГЗС Ефремова 260/1",
