@@ -315,7 +315,7 @@ const azsData = [
   },
   status: "red",
   updatedAt: null
-}
+},
   {
     id: 28,
     name: "Flash Ефремова 252В",
