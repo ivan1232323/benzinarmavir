@@ -9,6 +9,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+    queue: "нет данных"
   },
   {
     id: 2,
@@ -20,6 +21,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+    queue: "нет данных"
   },
   {
     id: 3,
@@ -31,6 +33,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+    queue: "нет данных"
   },
   {
     id: 4,
@@ -42,6 +45,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+    queue: "нет данных"
   },
   {
     id: 5,
@@ -53,6 +57,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+    queue: "нет данных"
   },
   {
     id: 6,
@@ -64,6 +69,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+    queue: "нет данных"
   },
   {
     id: 7,
@@ -75,6 +81,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+    queue: "нет данных"
   },
   {
     id: 8,
@@ -86,6 +93,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+    queue: "нет данных"
   },
   {
     id: 9,
@@ -97,6 +105,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+    queue: "нет данных"
   },
   {
     id: 10,
@@ -108,6 +117,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+    queue: "нет данных"
   },
   {
     id: 11,
@@ -119,6 +129,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+    queue: "нет данных"
   },
   {
     id: 12,
@@ -130,6 +141,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+    queue: "нет данных"
   },
   {
     id: 13,
@@ -141,6 +153,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+    queue: "нет данных"
   },
   {
     id: 14,
@@ -152,6 +165,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+    queue: "нет данных"
   },
   {
     id: 15,
@@ -163,6 +177,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+    queue: "нет данных"
   },
   {
     id: 16,
@@ -174,6 +189,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+    queue: "нет данных"
   },
   {
     id: 17,
@@ -185,6 +201,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+    queue: "нет данных"
   },
   {
     id: 18,
@@ -208,6 +225,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+    queue: "нет данных"
   },
   {
     id: 20,
@@ -219,6 +237,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+    queue: "нет данных"
   },
     {
     id: 21,
@@ -230,6 +249,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 22,
@@ -241,6 +261,7 @@ const azsData = [
     fuel: { ai92: 67, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+    queue: "нет данных"
   },
   {
     id: 23,
@@ -252,6 +273,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+    queue: "нет данных"
   },
   {
     id: 24,
@@ -263,6 +285,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+    queue: "нет данных"
   },
 {
   id: 25,
@@ -280,6 +303,7 @@ const azsData = [
   },
   status: "red",
   updatedAt: null
+  queue: "нет данных"
 },
 
 {
@@ -298,6 +322,7 @@ const azsData = [
   },
   status: "gray",
   updatedAt: "2026-07-04"
+  queue: "нет данных"
 },
 
 {
@@ -316,6 +341,7 @@ const azsData = [
   },
   status: "red",
   updatedAt: null
+  queue: "нет данных"
 },
   {
     id: 28,
@@ -327,6 +353,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 29,
@@ -338,6 +365,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 30,
@@ -349,6 +377,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 31,
@@ -360,6 +389,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 32,
@@ -371,6 +401,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 33,
@@ -382,6 +413,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 34,
@@ -393,6 +425,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 35,
@@ -404,6 +437,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 36,
@@ -415,6 +449,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 37,
@@ -426,6 +461,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 38,
@@ -437,6 +473,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 39,
@@ -448,6 +485,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 40,
@@ -459,6 +497,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 41,
@@ -470,6 +509,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 42,
@@ -481,6 +521,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 43,
@@ -492,6 +533,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 44,
@@ -503,6 +545,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 45,
@@ -514,6 +557,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 46,
@@ -525,6 +569,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 47,
@@ -536,6 +581,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 48,
@@ -547,6 +593,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 49,
@@ -558,6 +605,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 50,
@@ -569,6 +617,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 51,
@@ -580,6 +629,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 52,
@@ -591,6 +641,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 53,
@@ -602,6 +653,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 54,
@@ -613,6 +665,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 55,
@@ -624,6 +677,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 56,
@@ -635,6 +689,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 57,
@@ -646,6 +701,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 58,
@@ -657,6 +713,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   },
   {
     id: 59,
@@ -668,6 +725,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: null,
+      queue: "нет данных"
   }
 ];
   
