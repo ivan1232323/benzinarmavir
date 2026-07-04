@@ -615,8 +615,8 @@ const azsData = [
     address: "Армавирская 155",
     position: [45.045602, 41.105307],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "white",
+    updatedAt: "21:16",
       queue: "нет данных"
   },
   
