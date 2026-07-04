@@ -258,10 +258,10 @@ const azsData = [
     type: "fuel",
     address: "Кирова 175/2",
     position: [44.983985, 41.117023],
-    fuel: { ai92: 125.0, ai95: 135.0, ai100: 140.0, diesel: 115.0, gas: null },
-    status: "orange",
-    updatedAt: "20:48",
-    queue: "Очередь примерно на час"
+    fuel: { ai92: 0, ai95: 0, ai100: 0, diesel: 0, gas: null },
+    status: "red",
+    updatedAt: "23:24",
+    queue: "Нет"
   },
   {
     id: 23,
@@ -273,7 +273,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "red",
     updatedAt: "20:50",
-    queue: "нет данных"
+    queue: "нет"
   },
   {
     id: 24,
@@ -282,10 +282,10 @@ const azsData = [
     type: "fuel",
     address: "Кирова 66А",
     position: [44.993787, 41.125942],
-    fuel: { ai92: 65.55, ai95: 71.60, ai100: null, diesel: 76.55, gas: null },
-    status: "orange",
-    updatedAt: "20:50",
-    queue: "Очередь на час"
+    fuel: { ai92: 0, ai95: 0, ai100: 0, diesel: 76.55, gas: null },
+    status: "red",
+    updatedAt: "23:24",
+    queue: "Нет"
   },
 {
   id: 25,
