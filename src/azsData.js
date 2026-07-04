@@ -31,7 +31,7 @@ const azsData = [
     address: "ул. Шоссейная, 28",
     position: [44.923311, 41.133131],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
+    status: "white",
     updatedAt: null,
     queue: "нет данных"
   },
@@ -66,7 +66,7 @@ const azsData = [
     type: "fuel",
     address: "ФАД Кавказ 161 км",
     position: [44.96277, 41.065644],
-    fuel: { ai92: 00.00, ai95: 00.00, ai100: 00.00, diesel: 00.00, gas: 00.00 },
+    fuel: { ai92: 0, ai95: 0, ai100: 0, diesel: 0, gas: 0 },
     status: "red",
     updatedAt: "20:23",
     queue: "Нет"
