@@ -138,8 +138,8 @@ const azsData = [
     type: "fuel",
     address: "ул. Урупская, 17",
     position: [44.959066, 41.138461],
-    fuel: { ai92: 65.03, ai95: 75.63, ai100: 0.00, diesel: 74.31, gas: null },
-    status: "green",
+    fuel: { ai92: 65.03, ai95: 0, ai100: 0, diesel: 74.31, gas: null },
+    status: "orange",
     updatedAt: "19:40",
     queue: "Ожидание в очереди от 1.5 часов"
   },
