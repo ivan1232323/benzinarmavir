@@ -196,6 +196,7 @@ const azsData = [
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "orange",
     updatedAt: null,
+    queue: "Около 30 машин"
   },
   {
     id: 19,
