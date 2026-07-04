@@ -282,8 +282,8 @@ const azsData = [
     address: "Ефремова 280",
     position: [44.979334, 41.074479],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+    status: "gray",
+    updatedAt: 04.07.2026,
   },
   {
     id: 27,
