@@ -194,7 +194,7 @@ const azsData = [
     address: "ул. Мира, 50/5",
     position: [44.988457, 41.141163],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
+    status: "orange",
     updatedAt: null,
   },
   {
