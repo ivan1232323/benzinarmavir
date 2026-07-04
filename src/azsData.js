@@ -263,19 +263,25 @@ const azsData = [
     status: "red",
     updatedAt: null,
   },
-  {
-    id: 25,
-    name: "Газовая заправка Воровского 70/1",
-    brand: "Gas",
-    type: "gas",
-    address: "Воровского 70/1",
-    position: [44.980383, 41.100781],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+{
+  id: 25,
+  name: "Газовая заправка Воровского 70/1",
+  brand: "Gas",
+  type: "gas",
+  address: "Воровского 70/1",
+  position: [44.980383, 41.100781],
+  fuel: {
+    ai92: null,
+    ai95: null,
+    ai100: null,
+    diesel: null,
+    gas: null
   },
-  {
-   {
+  status: "red",
+  updatedAt: null
+},
+
+{
   id: 26,
   name: "Лукойл Ефремова 280",
   brand: "Lukoil",
@@ -291,19 +297,25 @@ const azsData = [
   },
   status: "gray",
   updatedAt: "2026-07-04"
-  }
+},
 
-  {
-    id: 27,
-    name: "АГЗС Ефремова 260/1",
-    brand: "Gas",
-    type: "gas",
-    address: "Ефремова 260/1",
-    position: [44.981371, 41.079771],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
+{
+  id: 27,
+  name: "АГЗС Ефремова 260/1",
+  brand: "Gas",
+  type: "gas",
+  address: "Ефремова 260/1",
+  position: [44.981371, 41.079771],
+  fuel: {
+    ai92: null,
+    ai95: null,
+    ai100: null,
+    diesel: null,
+    gas: null
   },
+  status: "red",
+  updatedAt: null
+}
   {
     id: 28,
     name: "Flash Ефремова 252В",
