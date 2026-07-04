@@ -340,8 +340,8 @@ const azsData = [
     gas: null
   },
   status: "red",
-  updatedAt: null
-  queue: "нет данных"
+  updatedAt: null,
+  queue: "нет данных",
 },
   {
     id: 28,
