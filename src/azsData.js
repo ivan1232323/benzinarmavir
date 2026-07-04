@@ -9,7 +9,7 @@ const azsData = [
     fuel: { ai92: 65.55, ai95: 71.60, ai100: null, diesel: 76.55, gas: 30.15 },
     status: "orange",
     updatedAt: "19:17",
-    queue: "небольшая очередь"
+    queue: "Небольшая очередь"
   },
   {
     id: 2,
@@ -18,10 +18,10 @@ const azsData = [
     type: "fuel",
     address: "ФАД Кавказ 171 км",
     position: [44.909322, 41.165162],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
-    queue: "нет данных"
+    fuel: { ai92: 65.55, ai95: 71.60, ai100: null, diesel: 76.55, gas: 30.15 },
+    status: "orange",
+    updatedAt: "19:52",
+    queue: "Небольшая очередь"
   },
   {
     id: 3,
@@ -37,15 +37,15 @@ const azsData = [
   },
   {
     id: 4,
-    name: "Росгаз ФАД Кавказ 168 км",
+    name: "Луйкойл ФАД Кавказ 168 км",
     brand: "Rosgaz",
-    type: "gas",
+    type: "fuel",
     address: "ФАД Кавказ 168 км",
     position: [44.924675, 41.13034],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "red",
-    updatedAt: null,
-    queue: "нет данных"
+    fuel: { ai92: 66.91, ai95: 73.67, ai100: 99.40, diesel: 76.92, gas: null },
+    status: "orange",
+    updatedAt: "20:19",
+    queue: "Небольшая очередь"
   },
   {
     id: 5,
@@ -66,10 +66,10 @@ const azsData = [
     type: "fuel",
     address: "ФАД Кавказ 161 км",
     position: [44.96277, 41.065644],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
+    fuel: { ai92: 00.00, ai95: 00.00, ai100: 00.00, diesel: 00.00, gas: 00.00 },
     status: "red",
-    updatedAt: null,
-    queue: "нет данных"
+    updatedAt: "20:23",
+    queue: "Нет"
   },
   {
     id: 7,
