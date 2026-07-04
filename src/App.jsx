@@ -8,7 +8,7 @@ const getColor = (status) => {
   if (status === "orange") return "#f39c12";
   if (status === "red") return "#e74c3c";
   if (status === "gray") return "#7f8c8d";
-  if (status === "white") return "#ffffff"; // ❗ новое
+  if (status === "white") return "#ffffff";
   return "#e74c3c";
 };
 
@@ -62,7 +62,7 @@ export default function App() {
           <div className="row"><span className="dot orange"></span> мало топлива</div>
           <div className="row"><span className="dot red"></span> нет топлива</div>
           <div className="row"><span className="dot gray"></span> закрыто</div>
-          <div className="row"><span className="dot whiteDot"></span> нет данных / устарело</div>
+          <div className="row"><span className="dot white"></span> нет данных / устарело</div>
         </div>
 
         <div className="card">
@@ -92,8 +92,14 @@ export default function App() {
 
       </div>
 
+      {/* MAP */}
       <div className="mapWrap">
-        <MapContainer center={[44.989, 41.123]} zoom={12} className="map">
+        <MapContainer
+          center={[44.989, 41.123]}
+          zoom={12}
+          className="map"
+          attributionControl={false}   // ❗ убирает Leaflet подпись
+        >
           <TileLayer url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png" />
 
           {filteredData.map((azs) => (
@@ -130,6 +136,7 @@ export default function App() {
         </MapContainer>
       </div>
 
+      {/* STYLE */}
       <style>{`
         html, body, #root {
           margin: 0;
@@ -226,7 +233,7 @@ export default function App() {
         .orange { background: #f39c12; }
         .red { background: #e74c3c; }
         .gray { background: #7f8c8d; }
-        .whiteDot { background: #ffffff; border: 1px solid #999; }
+        .white { background: #ffffff; border: 1px solid #999; }
 
         .bottomInfo {
           margin-top: auto;
