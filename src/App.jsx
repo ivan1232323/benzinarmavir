@@ -8,6 +8,7 @@ const getColor = (status) => {
   if (status === "orange") return "#f39c12";
   if (status === "red") return "#e74c3c";
   if (status === "gray") return "#7f8c8d";
+  if (status === "white") return "#ffffff"; // ❗ новое
   return "#e74c3c";
 };
 
@@ -47,15 +48,10 @@ export default function App() {
   return (
     <div className="app">
 
-      {/* BUTTON */}
-      <button
-        className="toggleBtn"
-        onClick={() => setSidebarOpen(!sidebarOpen)}
-      >
+      <button className="toggleBtn" onClick={() => setSidebarOpen(!sidebarOpen)}>
         {sidebarOpen ? "✕" : "☰"}
       </button>
 
-      {/* SIDEBAR */}
       <div className={`sidebar ${sidebarOpen ? "open" : "closed"}`}>
 
         <div className="header">⛽ BenzinArmavir</div>
@@ -66,6 +62,7 @@ export default function App() {
           <div className="row"><span className="dot orange"></span> мало топлива</div>
           <div className="row"><span className="dot red"></span> нет топлива</div>
           <div className="row"><span className="dot gray"></span> закрыто</div>
+          <div className="row"><span className="dot whiteDot"></span> нет данных / устарело</div>
         </div>
 
         <div className="card">
@@ -95,14 +92,8 @@ export default function App() {
 
       </div>
 
-      {/* MAP */}
       <div className="mapWrap">
-        <MapContainer
-          center={[44.989, 41.123]}
-          zoom={12}
-          className="map"
-          attributionControl={false}
-        >
+        <MapContainer center={[44.989, 41.123]} zoom={12} className="map">
           <TileLayer url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png" />
 
           {filteredData.map((azs) => (
@@ -139,7 +130,6 @@ export default function App() {
         </MapContainer>
       </div>
 
-      {/* STYLE */}
       <style>{`
         html, body, #root {
           margin: 0;
@@ -236,6 +226,7 @@ export default function App() {
         .orange { background: #f39c12; }
         .red { background: #e74c3c; }
         .gray { background: #7f8c8d; }
+        .whiteDot { background: #ffffff; border: 1px solid #999; }
 
         .bottomInfo {
           margin-top: auto;
