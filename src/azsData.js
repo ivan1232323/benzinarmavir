@@ -212,8 +212,8 @@ const azsData = [
     position: [44.988457, 41.141163],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
     status: "orange",
-    updatedAt: "20:41",
-    queue: "Около 30 машин"
+    updatedAt: "9:54",
+    queue: "Небольшая очередь. 95 есть, по ценам не знаем"
   },
   {
     id: 19,
