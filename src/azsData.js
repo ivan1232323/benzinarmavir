@@ -102,9 +102,9 @@ const azsData = [
     type: "fuel",
     address: "ул. Лазурная, 1/1",
     position: [44.946503, 41.129485],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "white",
-    updatedAt: "20:35",
+    fuel: { ai92: null, ai95: null, ai100: null, diesel: 80, gas: null },
+    status: "orange",
+    updatedAt: "9:39",
     queue: "нет данных"
   },
   {
@@ -114,9 +114,9 @@ const azsData = [
     type: "fuel",
     address: "ул. Загорская, 2а",
     position: [44.9479, 41.130585],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "white",
-    updatedAt: "20:35",
+    fuel: { ai92: null, ai95: 85, ai100: null, diesel: null, gas: null },
+    status: "orange",
+    updatedAt: "9:39",
     queue: "нет данных"
   },
   {
