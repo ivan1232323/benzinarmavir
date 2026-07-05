@@ -494,10 +494,10 @@ const azsData = [
     type: "fuel",
     address: "Промзона 16/1",
     position: [45.010013, 41.09799],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "white",
-    updatedAt: "21:05",
-      queue: "нет данных"
+    fuel: { ai92: 120, ai95: 130, ai100: null, diesel: null, gas: null },
+    status: "orange",
+    updatedAt: "9:44",
+      queue: "Нет. Ограничение 20 литров"
   },
   {
     id: 41,
