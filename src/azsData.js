@@ -422,9 +422,9 @@ const azsData = [
     type: "fuel",
     address: "Новороссийская 163/1",
     position: [44.988676, 41.066649],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "white",
-    updatedAt: "10:42",
+    fuel: { ai92: null, ai95: 120, ai100: null, diesel: null, gas: null },
+    status: "orange",
+    updatedAt: "11:51",
       queue: "нет данных"
   },
   {
