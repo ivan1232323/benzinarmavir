@@ -258,10 +258,10 @@ const azsData = [
     type: "fuel",
     address: "Кирова 175/2",
     position: [44.983985, 41.117023],
-    fuel: { ai92: 0, ai95: 0, ai100: 0, diesel: 0, gas: null },
-    status: "red",
-    updatedAt: "23:24",
-    queue: "Нет"
+    fuel: { ai92: 0, ai95: 130, ai100: 0, diesel: 0, gas: null },
+    status: "orange",
+    updatedAt: "9:55",
+    queue: "На момент обновления маленькая"
   },
   {
     id: 23,
