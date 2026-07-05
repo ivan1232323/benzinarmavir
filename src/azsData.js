@@ -590,9 +590,9 @@ const azsData = [
     type: "fuel",
     address: "Северный жилой район",
     position: [45.027226, 41.114834],
-    fuel: { ai92: 66.71, ai95: 73.56, ai100: 99.40, diesel: null, gas: null },
+    fuel: { ai92: 0, ai95: 0, ai100: 0, diesel: 77.32, gas: null },
     status: "orange",
-    updatedAt: "21:11",
+    updatedAt: "9:58",
       queue: "нет данных"
   },
   {
@@ -615,9 +615,9 @@ const azsData = [
     address: "Армавирская 155",
     position: [45.045602, 41.105307],
     fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "white",
-    updatedAt: "21:16",
-      queue: "нет данных"
+    status: "Orange",
+    updatedAt: "9:58",
+      queue: "95 и ДТ в наличии, по цене неизвестно"
   },
   
 ];
