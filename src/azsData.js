@@ -66,15 +66,15 @@ const azsData = [
     type: "fuel",
     address: "ФАД Кавказ 161 км",
     position: [44.96277, 41.065644],
-    fuel: { ai92: 0, ai95: 0, ai100: 0, diesel: 0, gas: 0 },
-    status: "red",
-    updatedAt: "20:23",
-    queue: "Нет"
+    fuel: { ai92: 64.85, ai95: 71.70, ai100: 0, diesel: 75.65, gas: 0 },
+    status: "orange",
+    updatedAt: "9:18",
+    queue: "Около получаса"
   },
   {
     id: 7,
-    name: "Газпром газомоторное топливо 160 км",
-    brand: "Gazprom",
+    name: "АГНКС газомоторное топливо 160 км",
+    brand: "АГНКС",
     type: "gas",
     address: "ФАД Кавказ 160 км",
     position: [44.972424, 41.053576],
