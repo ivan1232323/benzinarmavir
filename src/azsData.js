@@ -139,9 +139,9 @@ const azsData = [
     address: "ул. Урупская, 17",
     position: [44.959066, 41.138461],
     fuel: { ai92: 65.03, ai95: 0, ai100: 0, diesel: 74.31, gas: null },
-    status: "orange",
-    updatedAt: "00:04",
-    queue: "Ожидание в очереди от 1.5 часов"
+    status: "red",
+    updatedAt: "12:40",
+    queue: "Большая очередь. Ждут бензовоз"
   },
   {
     id: 13,
@@ -150,9 +150,9 @@ const azsData = [
     type: "fuel",
     address: "ул. Мира, 90",
     position: [44.973374, 41.169306],
-    fuel: { ai92: null, ai95: null, ai100: null, diesel: null, gas: null },
-    status: "White",
-    updatedAt: "10:31",
+    fuel: { ai92: 130, ai95: null, ai100: null, diesel: null, gas: null },
+    status: "orange",
+    updatedAt: "12:41",
     queue: "нет данных"
   },
   {
@@ -544,8 +544,8 @@ const azsData = [
     position: [45.019261, 41.082238],
     fuel: { ai92: 65.55, ai95: 71.60, ai100: null, diesel: 76.55, gas: 30.15 },
     status: "orange",
-    updatedAt: "10:47",
-      queue: "Неизвестно, 95 заканчивается"
+    updatedAt: "12:42",
+      queue: "Бензовоз приехал"
   },
   {
     id: 45,
