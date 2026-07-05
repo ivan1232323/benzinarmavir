@@ -363,8 +363,8 @@ const azsData = [
     address: "Воровского 60/2",
     position: [44.984099, 41.089194],
     fuel: { ai92: 0, ai95: 74.15, ai100: null, diesel: 76.55, gas: null },
-    status: "orange",
-    updatedAt: "9:22",
+    status: "red",
+    updatedAt: "10:55",
       queue: "Неизвестно"
   },
   {
